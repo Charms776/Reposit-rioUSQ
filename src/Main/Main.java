@@ -25,9 +25,9 @@ public class Main {
 
     public static Integer iniciar() {
         System.out.println("\n Escolha uma opção: \n");
-        System.out.println("[1] Cadastrar Item ");
-        System.out.println("[2] Listar Itens ");
-        System.out.println("[3] Sair ");
+        System.out.println("(°1) Cadastrar Item ");
+        System.out.println("(°2)Listar Itens ");
+        System.out.println("(°3) Sair ");
 
         int opcao = scanner.nextInt();
         return opcao;
